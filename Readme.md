@@ -14,8 +14,7 @@ Then open up two browser windows pointed to `localhost:3002/room_name`.
 
 You should see something like this: 
 
-![screenshot1](http://f.cl.ly/items/0d223G2I1K3H381v1H3E/Screen%20Shot%202013-01-13%20at%203.09.17%20PM.png)
-
+ 
 # WebRTC in a nutshell
 
 Firstly read through the article on [HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webrtc/basics/). Here are the steps to create a successful connection in high-level pseudo-code:
