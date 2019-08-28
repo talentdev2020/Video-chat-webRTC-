@@ -55,4 +55,3 @@ Firstly read through the article on [HTML5 Rocks](http://www.html5rocks.com/en/t
     
 So this song and dance is mainly complicated by the need to talk to the remote host via some transport method (websockets in this case). Check out public/javascripts/simple.js for an example of connecting two peers within the same browser window for an example of the PeerConnection API without the transport layer.
 
-If you have any questions feel free to email me keithnorm@gmail.
